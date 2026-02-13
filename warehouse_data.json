@@ -1,0 +1,156 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "mknklcndklsnclkdns",
+      "age": 30,
+      "position": "Worker",
+      "salary": 50000.0,
+      "shift": "Day",
+      "hire_date": "2026-02-08"
+    },
+    {
+      "id": 2,
+      "name": "nkn knk nck",
+      "age": 30,
+      "position": "Supervisor",
+      "salary": 50000.0,
+      "shift": "Day",
+      "hire_date": "2026-02-08"
+    },
+    {
+      "id": 3,
+      "name": "lmklmvknkn jvb",
+      "age": 30,
+      "position": "Manager",
+      "salary": 50000.0,
+      "shift": "Day",
+      "hire_date": "2026-02-08"
+    },
+    {
+      "id": 4,
+      "name": "lmlfdmblvmlnmblmnl",
+      "age": 30,
+      "position": "Worker",
+      "salary": 50000.0,
+      "shift": "Day",
+      "hire_date": "2026-02-08"
+    },
+    {
+      "id": 5,
+      "name": "njkngnvjbnv nbmv",
+      "age": 32,
+      "position": "Supervisor",
+      "salary": 60000.0,
+      "shift": "Day",
+      "hire_date": "2026-02-09"
+    }
+  ],
+  "inventory": [
+    {
+      "id": 1,
+      "name": " l,,  l; l; l ",
+      "quantity": 87,
+      "price": 110.0,
+      "min_stock": 10,
+      "added_date": "2026-02-08",
+      "updated_date": "2026-02-11"
+    },
+    {
+      "id": 2,
+      "name": "mfkvfdnkfmdbv",
+      "quantity": 87,
+      "price": 100.0,
+      "min_stock": 10,
+      "added_date": "2026-02-08"
+    },
+    {
+      "id": 3,
+      "name": "chips",
+      "quantity": 88,
+      "price": 100.0,
+      "min_stock": 9,
+      "added_date": "2026-02-08"
+    },
+    {
+      "id": 4,
+      "name": "kmk;mlk",
+      "quantity": 96,
+      "price": 100.0,
+      "min_stock": 10,
+      "added_date": "2026-02-11"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer": "vishal",
+      "items": [
+        {
+          "item_id": 1,
+          "name": " l,,  l; l; l ",
+          "quantity": 9,
+          "price": 110.0,
+          "total": 990.0
+        },
+        {
+          "item_id": 2,
+          "name": "mfkvfdnkfmdbv",
+          "quantity": 8,
+          "price": 100.0,
+          "total": 800.0
+        },
+        {
+          "item_id": 3,
+          "name": "chips",
+          "quantity": 7,
+          "price": 100.0,
+          "total": 700.0
+        }
+      ],
+      "total": 2490.0,
+      "total_qty": 24,
+      "status": "Fulfilled",
+      "created_date": "2026-02-08"
+    },
+    {
+      "id": 2,
+      "customer": "rohan",
+      "items": [
+        {
+          "item_id": 1,
+          "name": " l,,  l; l; l ",
+          "quantity": 4,
+          "price": 110.0,
+          "total": 440.0
+        },
+        {
+          "item_id": 2,
+          "name": "mfkvfdnkfmdbv",
+          "quantity": 5,
+          "price": 100.0,
+          "total": 500.0
+        },
+        {
+          "item_id": 3,
+          "name": "chips",
+          "quantity": 5,
+          "price": 100.0,
+          "total": 500.0
+        },
+        {
+          "item_id": 4,
+          "name": "kmk;mlk",
+          "quantity": 4,
+          "price": 100.0,
+          "total": 400.0
+        }
+      ],
+      "total": 1840.0,
+      "total_qty": 18,
+      "status": "Pending",
+      "created_date": "2026-02-11"
+    }
+  ],
+  "shipments": []
+}

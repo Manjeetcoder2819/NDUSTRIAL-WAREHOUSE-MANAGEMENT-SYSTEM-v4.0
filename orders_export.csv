@@ -1,0 +1,2 @@
+id,customer,items,total,total_qty,status,created_date
+1,vishal,"[{'item_id': 1, 'name': ' l,,  l; l; l ', 'quantity': 9, 'price': 110.0, 'total': 990.0}, {'item_id': 2, 'name': 'mfkvfdnkfmdbv', 'quantity': 8, 'price': 100.0, 'total': 800.0}, {'item_id': 3, 'name': 'chips', 'quantity': 7, 'price': 100.0, 'total': 700.0}]",2490.0,24,Fulfilled,2026-02-08

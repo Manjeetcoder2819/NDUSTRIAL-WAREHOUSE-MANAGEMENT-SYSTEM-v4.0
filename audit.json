@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-02-08T23:42:36.217096",
+    "action": "CREATE",
+    "module": "users",
+    "record_id": 1,
+    "user": "System",
+    "details": "New user registered: manj1234 (manager)"
+  },
+  {
+    "timestamp": "2026-02-08T23:44:45.660473",
+    "action": "CREATE",
+    "module": "employees",
+    "record_id": 3,
+    "user": "manj1234",
+    "details": "Hired lmklmvknkn jvb"
+  },
+  {
+    "timestamp": "2026-02-08T23:53:20.448361",
+    "action": "CREATE",
+    "module": "employees",
+    "record_id": 4,
+    "user": "manj1234",
+    "details": "Hired lmlfdmblvmlnmblmnl"
+  },
+  {
+    "timestamp": "2026-02-09T14:39:27.255100",
+    "action": "CREATE",
+    "module": "employees",
+    "record_id": 5,
+    "user": "manj1234",
+    "details": "Hired njkngnvjbnv nbmv"
+  },
+  {
+    "timestamp": "2026-02-11T10:59:14.260356",
+    "action": "UPDATE",
+    "module": "attendance",
+    "record_id": 1,
+    "user": "manj1234",
+    "details": "Checked in"
+  },
+  {
+    "timestamp": "2026-02-11T10:59:35.752383",
+    "action": "CREATE",
+    "module": "inventory",
+    "record_id": 4,
+    "user": "manj1234",
+    "details": "Added kmk;mlk"
+  },
+  {
+    "timestamp": "2026-02-11T10:59:54.454754",
+    "action": "UPDATE",
+    "module": "inventory",
+    "record_id": 1,
+    "user": "manj1234",
+    "details": "Updated  l,,  l; l; l "
+  },
+  {
+    "timestamp": "2026-02-11T10:59:55.713292",
+    "action": "UPDATE",
+    "module": "inventory",
+    "record_id": 1,
+    "user": "manj1234",
+    "details": "Updated  l,,  l; l; l "
+  },
+  {
+    "timestamp": "2026-02-11T11:00:38.773526",
+    "action": "CREATE",
+    "module": "orders",
+    "record_id": 2,
+    "user": "manj1234",
+    "details": "Order from rohan"
+  }
+]
